@@ -1,4 +1,5 @@
 # Voice Assistant
+![image](https://github.com/nageshsinghc4/Voice-assistant/blob/master/cropped-personal-voice-assistant.png)
 
 ## What is a Voice Assistant?
 
