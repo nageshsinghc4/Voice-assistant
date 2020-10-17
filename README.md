@@ -19,4 +19,4 @@ Interaction with Voice assistant:
 https://photos.google.com/share/AF1QipNJW9DztpXUh4dBJN06S4cwKHo0S1PyWZrTJqjaVJ5ZJysxzjI4pxazL3sd_hvAiw?key=U28yakRQOTdGcmFvMTktZnMwYmF4NGZMeVY5a0hB
 
 You can read this article to know more.
-https://towardsdatascience.com/build-your-first-voice-assistant-85a5a49f6cc1
+https://www.theaidream.com/post/build-your-first-voice-assistant
