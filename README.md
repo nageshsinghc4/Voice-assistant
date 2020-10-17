@@ -5,9 +5,9 @@
 
 A voice assistant or intelligent personal assistant is a software agent that can perform tasks or services for an individual based on verbal commands i.e. by interpreting human speech and respond via synthesized voices. Users can ask their assistants’ questions, control home automation devices, and media playback via voice, and manage other basic tasks such as email, to-do lists, open or close any application etc with verbal commands.
 
-A step by step tutorial on building a voice-based assistant using python.
+**In this repository I prove a step by step tutorial on building a desktop voice assistant using python.**
 
-Simple voice-based desktop/laptop assistant that has the capability to:-
+Simple voice-based desktop/laptop assistant that has the capability to:
 1. Open the subreddit in the browser.
 2. Open any website in the browser.
 3. Send an email to your contacts.
@@ -22,4 +22,4 @@ Simple voice-based desktop/laptop assistant that has the capability to:-
 
 Interaction with Voice assistant: [link](https://photos.google.com/share/AF1QipNJW9DztpXUh4dBJN06S4cwKHo0S1PyWZrTJqjaVJ5ZJysxzjI4pxazL3sd_hvAiw?key=U28yakRQOTdGcmFvMTktZnMwYmF4NGZMeVY5a0hB)
 
-You can read [this](https://www.theaidream.com/post/build-your-first-voice-assistant) article to understand step by step approach in building this voice assistant.
+You can read [this](https://www.theaidream.com/post/build-your-first-voice-assistant) article to understand step by step approach to build this voice assistant.
