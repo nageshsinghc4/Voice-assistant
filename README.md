@@ -20,6 +20,6 @@ Simple voice-based desktop/laptop assistant that has the capability to:
 10. Tells you latest news feeds.
 11. Tells you about almost anything you ask.
 
-Interaction with Voice assistant: [link](https://photos.google.com/share/AF1QipNJW9DztpXUh4dBJN06S4cwKHo0S1PyWZrTJqjaVJ5ZJysxzjI4pxazL3sd_hvAiw?key=U28yakRQOTdGcmFvMTktZnMwYmF4NGZMeVY5a0hB)
+Interaction with Voice assistant: (Will upoad soon)
 
 You can read [this](https://www.theaidream.com/post/build-your-first-voice-assistant) article to understand step by step approach to build this voice assistant.
